@@ -1,4 +1,4 @@
-MembershipHashGenerator
-=======================
+Membership pair generator
+=============
 
-Utility to create salted password hashes compatible with .Net's membership providers
+A basic tool that generates password salts and hashes compatible with the .NET membership providers.  Handy for when you manage to lock yourself out of your dev Sitecore instance...
